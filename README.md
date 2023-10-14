@@ -1,1 +1,1 @@
-Welcome to RizzyCraft, an offline version of eaglercraft. 
+Welcome to RizzyCraft, an offline version of eaglercraft. Feel free to fork but give credits
